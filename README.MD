@@ -1,0 +1,1 @@
+This is a self project made to compile LMC source code.
