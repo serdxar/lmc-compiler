@@ -1,0 +1,6 @@
+        LDA one
+        INP
+        ADD one
+        OUT
+        HLT
+one     DAT 1
