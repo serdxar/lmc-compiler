@@ -1,6 +1,6 @@
-        LDA one
-        INP
-        ADD one
-        OUT
-        HLT
-one     DAT 1
+0 INP
+1 loop OUT
+2 SUB one
+3 BRP loop
+4 HLT
+5 one DAT 1
